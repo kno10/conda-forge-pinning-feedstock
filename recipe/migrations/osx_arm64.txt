@@ -602,6 +602,8 @@ gst-plugins-bad
 pycbc
 python-pushover
 rustpython
+maturin
+kmedoids
 binaryen
 gfal2-util
 randomgen
